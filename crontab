@@ -1,0 +1,1 @@
+*/2 * * * * /usr/local/bin/python /app/wu_hourly.py > /app/logfile.txt 2>&1
